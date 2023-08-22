@@ -56,5 +56,3 @@
 <img src="https://raw.githubusercontent.com/shafiquecbl/shafiquecbl/output/snake.svg" alt="Snake animation" />
 
 ###
-
-- https://shafiquecbl.github.io/portfolio
