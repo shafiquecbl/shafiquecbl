@@ -53,6 +53,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shafiquecbl/shafiquecbl/output/snake.svg" alt="Snake animation" />
-
 ###
