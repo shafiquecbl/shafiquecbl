@@ -293,9 +293,9 @@ VLESS and VMESS proxy/VPN support for Android and iOS, powered by the V2Ray/Xray
 
 <a href="https://github.com/shafiquecbl?tab=overview&from=2025-09-01&to=2026-09-09">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/54c5f8/shafiquecbl">
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969da/shafiquecbl">
-  <img src="https://ghchart.rshah.org/54c5f8/shafiquecbl" width="100%" alt="Muhammad Shafique's GitHub contribution history" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafiquecbl/shafiquecbl/main/assets/github-contributions-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shafiquecbl/shafiquecbl/main/assets/github-contributions-light.svg">
+  <img src="https://raw.githubusercontent.com/shafiquecbl/shafiquecbl/main/assets/github-contributions-dark.svg" width="100%" alt="Muhammad Shafique's GitHub contribution history" />
 </picture>
 </a>
 

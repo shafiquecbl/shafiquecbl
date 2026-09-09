@@ -1,0 +1,43 @@
+name: Update contribution graph
+
+on:
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch theme-aware contribution graphs
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 5 --silent --show-error \
+            "https://ghchart.rshah.org/54c5f8/shafiquecbl" \
+            --output assets/github-contributions-dark.svg
+          curl --fail --location --retry 5 --silent --show-error \
+            "https://ghchart.rshah.org/0969da/shafiquecbl" \
+            --output assets/github-contributions-light.svg
+
+          sed -i 's/#EEEEEE/#161b22/g; s/#767676/#8b949e/g' \
+            assets/github-contributions-dark.svg
+          sed -i 's/#EEEEEE/#ebedf0/g; s/#767676/#57606a/g' \
+            assets/github-contributions-light.svg
+
+      - name: Commit refreshed graphs
+        shell: bash
+        run: |
+          if git diff --quiet -- assets/github-contributions-*.svg; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contributions-*.svg
+          git commit -m "chore: refresh contribution graph"
+          git push
