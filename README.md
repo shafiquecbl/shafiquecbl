@@ -16,10 +16,10 @@ Flutter Team Lead building fast, reliable mobile products across security, deliv
 
 <table width="100%">
 <tr align="center">
-<td width="25%"><h3>6+</h3><sub>YEARS BUILDING</sub></td>
-<td width="25%"><h3>30+</h3><sub>PRODUCTS SHIPPED</sub></td>
-<td width="25%"><h3>20+</h3><sub>LAUNCHES DELIVERED</sub></td>
-<td width="25%"><h3>2</h3><sub>MOBILE PLATFORMS</sub></td>
+<td width="210"><h3>6+</h3><sub>YEARS BUILDING</sub></td>
+<td width="210"><h3>30+</h3><sub>PRODUCTS SHIPPED</sub></td>
+<td width="210"><h3>20+</h3><sub>LAUNCHES DELIVERED</sub></td>
+<td width="210"><h3>2</h3><sub>MOBILE PLATFORMS</sub></td>
 </tr>
 </table>
 
