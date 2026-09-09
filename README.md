@@ -1,22 +1,119 @@
-# 💫 About Me:
-Flutter Developer with 5+ years of experience building cross-platform mobile apps using Flutter and Dart. Skilled in creating responsive, high-performance apps with clean code and seamless API integrations. Proven ability to collaborate with teams to deliver user-focused solutions.
+<div align="center">
 
+<sub>MOBILE PRODUCT ENGINEER&nbsp;&nbsp;·&nbsp;&nbsp;FLUTTER TEAM LEAD&nbsp;&nbsp;·&nbsp;&nbsp;ISLAMABAD</sub>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shafiquecbl) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_shafique21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-shafique) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/muhammad-shafique) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shafiquecbl@gmail.com) 
+# Muhammad Shafique
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shafiquecbl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shafiquecbl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shafiquecbl&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+### Flutter products, engineered to move.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I turn complex product ideas into fast, reliable mobile experiences—from architecture to release.
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shafique.dev) 
+[Portfolio](https://shafique.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mr-shafique) &nbsp;·&nbsp; [Email](mailto:shafiquecbl@gmail.com) &nbsp;·&nbsp; [pub.dev](https://pub.dev/packages/flutter_v2ray_plus)
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+### 01 / Profile
+
+<table>
+<tr>
+<td width="64%" valign="top">
+
+#### I build for the parts that cannot feel unfinished.
+
+My work sits where mobile craft meets platform depth: polished Flutter interfaces, native iOS and Android capabilities, dependable product systems, and release pipelines that hold up in production.
+
+I have worked across **VPN and security, delivery, generative AI, health, education, publishing, fintech, and SaaS**—leading products from the first technical decision to the store release.
+
+</td>
+<td width="36%" valign="top">
+
+#### At a glance
+
+`06+` years building<br>
+`30+` products shipped<br>
+`20+` launches delivered<br>
+`02` mobile platforms
+
+</td>
+</tr>
+</table>
+
+### 02 / Selected source
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<sub>01 · CROSS-PLATFORM VPN</sub>
+
+#### [flutter_v2ray_plus ↗](https://github.com/shafiquecbl/flutter_v2ray_plus)
+
+VLESS and VMESS proxy/VPN support for Android and iOS, powered by the V2Ray/Xray core—with routing, status tracking, delay testing, and extended configuration.
+
+`Flutter` `Dart` `Kotlin` `Swift`
+
+</td>
+<td width="33%" valign="top">
+
+<sub>02 · ANDROID NETWORKING</sub>
+
+#### [flutter_vpn_service ↗](https://github.com/shafiquecbl/flutter_vpn_service)
+
+Flutter primitives for establishing VPN connections, protecting sockets, configuring sessions, and managing addresses and network routes.
+
+`Flutter` `Android` `VpnService`
+
+</td>
+<td width="33%" valign="top">
+
+<sub>03 · PLATFORM PERMISSIONS</sub>
+
+#### [vpn_permission ↗](https://github.com/shafiquecbl/vpn_permission)
+
+A focused cross-platform plugin for Android VPN permissions and iOS tunnel configuration through native platform APIs.
+
+`Dart` `iOS` `Android`
+
+</td>
+</tr>
+</table>
+
+### 03 / Production practice
+
+| Discipline | What I ship |
+|:--|:--|
+| **Mobile craft** | Flutter, Dart, responsive interfaces, motion, state management, store-ready builds |
+| **Platform depth** | Android, iOS, Kotlin, Swift, VPN protocols, network extensions, native integrations |
+| **Product systems** | Firebase, RevenueCat, Mixpanel, AppsFlyer, REST APIs, Google Maps, subscriptions |
+| **Release & scale** | GitHub Actions, Xcode Cloud, CI/CD, analytics, crash reporting, app-store delivery |
+
+### 04 / Products in the wild
+
+Selected production work includes **SDRD**, **GuardX VPN**, **Vynox VPN**, **PixArt AI**, **F1 Race Programme**, **Flow & Glow**, **Prophet's Stories**, **Ahadees Al-Rasool**, and **Moonport**.
+
+Each product represents a different constraint—real-time operations, private network tunnels, generative workflows, sensitive health data, offline media, or live market information. The common thread is software that feels clear to the person using it and stays maintainable for the team behind it.
+
+**[Explore the product case studies →](https://shafique.dev/#work)**
+
+### 05 / Current focus
+
+```text
+LEADING       Flutter engineering and delivery at Dcodax Technologies
+BUILDING      Reusable mobile systems with thoughtful native integrations
+MAINTAINING   Open-source packages for VPN and platform capabilities
+EXPLORING     Products where engineering quality is part of the experience
+```
+
+---
+
+<div align="center">
+
+### Have a mobile product that needs to feel finished?
+
+[Start a conversation](mailto:shafiquecbl@gmail.com) &nbsp;·&nbsp; [See the full portfolio](https://shafique.dev)
+
+<sub>MUHAMMAD SHAFIQUE&nbsp;&nbsp;—&nbsp;&nbsp;FLUTTER DEVELOPER&nbsp;&nbsp;—&nbsp;&nbsp;ISLAMABAD, PAKISTAN</sub>
+
+</div>
