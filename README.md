@@ -296,10 +296,10 @@ VLESS and VMESS proxy/VPN support for Android and iOS, powered by the V2Ray/Xray
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shafiquecbl&show_icons=true&hide_border=true&theme=github_dark&title_color=39d353&icon_color=39d353" width="100%" alt="Muhammad Shafique's GitHub statistics" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shafiquecbl&show_icons=true&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=39d353&icon_color=39d353" width="100%" alt="Muhammad Shafique's GitHub statistics" />
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafiquecbl&layout=compact&hide_border=true&theme=github_dark&title_color=39d353" width="100%" alt="Muhammad Shafique's top programming languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafiquecbl&layout=compact&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=39d353" width="100%" alt="Muhammad Shafique's top programming languages" />
 </td>
 </tr>
 </table>
