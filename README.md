@@ -77,6 +77,23 @@ Food, grocery, shop, and parcel delivery built around fast ordering, discovery, 
 </td>
 <td width="50%" valign="top">
 
+<a href="https://apps.apple.com/us/app/sdrd-partner/id6747889277"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/sdrd-partner.webp" width="100%" alt="SDRD Partner merchant operations application" /></a>
+
+### SDRD Partner
+
+**Merchant operations**
+
+A merchant command center for live orders, catalog controls, store availability, wallet withdrawals, earnings, and performance reporting.
+
+`Flutter` `Orders` `Wallet` `Tablet`
+
+[App Store ↗](https://apps.apple.com/us/app/sdrd-partner/id6747889277) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.sadrad.store&hl=en_CA)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://apps.apple.com/us/app/guardx-vpn-vpn-proxy-master/id6753163496"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/guardx.webp" width="100%" alt="GuardX VPN mobile application" /></a>
 
 ### GuardX VPN
@@ -88,6 +105,21 @@ A privacy-focused VPN with OpenVPN, WireGuard, and Xray protocols, plus threat p
 `Flutter` `WireGuard` `Xray` `RevenueCat`
 
 [App Store ↗](https://apps.apple.com/us/app/guardx-vpn-vpn-proxy-master/id6753163496)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/vynox.webp" width="100%" alt="Vynox VPN mobile application" /></a>
+
+### Vynox VPN
+
+**Consumer VPN**
+
+A one-tap privacy product for private browsing, streaming, gaming, global server selection, auto-connect, subscriptions, and ad blocking.
+
+`Flutter` `VPN` `Privacy` `RevenueCat`
+
+[App Store ↗](https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vynox.secure.vpn.proxy.master&hl=en)
 
 </td>
 </tr>
@@ -141,6 +173,23 @@ Sensitive daily-use flows for cycles, symptoms, weight, temperature, educational
 </td>
 <td width="50%" valign="top">
 
+<a href="https://play.google.com/store/apps/details?id=com.moonport.moonportapp"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/moonport.webp" width="100%" alt="Moonport crypto calculator application" /></a>
+
+### Moonport
+
+**Crypto scenario calculator**
+
+Fast projections across 10,000+ coins, future balances, market caps, and price targets—turning volatile data into comparable decision views.
+
+`Flutter` `Crypto` `Market Data` `Fintech`
+
+[Google Play ↗](https://play.google.com/store/apps/details?id=com.moonport.moonportapp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://apps.apple.com/us/app/prophets-stories-pbut/id6755478899"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/prophets-stories.webp" width="100%" alt="Prophet's Stories educational mobile application" /></a>
 
 ### Prophet's Stories
@@ -154,40 +203,6 @@ Illustrated lessons, audio narration, English translations, and offline access s
 [App Store ↗](https://apps.apple.com/us/app/prophets-stories-pbut/id6755478899) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.wisecodex.prophetstories)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://apps.apple.com/us/app/sdrd-partner/id6747889277"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/sdrd-partner.webp" width="100%" alt="SDRD Partner merchant operations application" /></a>
-
-### SDRD Partner
-
-**Merchant operations**
-
-A merchant command center for live orders, catalog controls, store availability, wallet withdrawals, earnings, and performance reporting.
-
-`Flutter` `Orders` `Wallet` `Tablet`
-
-[App Store ↗](https://apps.apple.com/us/app/sdrd-partner/id6747889277) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.sadrad.store&hl=en_CA)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/vynox.webp" width="100%" alt="Vynox VPN mobile application" /></a>
-
-### Vynox VPN
-
-**Consumer VPN**
-
-A one-tap privacy product for private browsing, streaming, gaming, global server selection, auto-connect, subscriptions, and ad blocking.
-
-`Flutter` `VPN` `Privacy` `RevenueCat`
-
-[App Store ↗](https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vynox.secure.vpn.proxy.master&hl=en)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 <a href="https://apps.apple.com/us/app/ahadees-al-rasool/id6749274573"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/ahadees-al-rasool.webp" width="100%" alt="Ahadees Al-Rasool educational application" /></a>
@@ -201,21 +216,6 @@ Authentic Hadith learning with Arabic recitations, English translations, searcha
 `Flutter` `Hadith` `Audio` `Offline`
 
 [App Store ↗](https://apps.apple.com/us/app/ahadees-al-rasool/id6749274573) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.wisecodex.ahadeesalrasool)
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://play.google.com/store/apps/details?id=com.moonport.moonportapp"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/moonport.webp" width="100%" alt="Moonport crypto calculator application" /></a>
-
-### Moonport
-
-**Crypto scenario calculator**
-
-Fast projections across 10,000+ coins, future balances, market caps, and price targets—turning volatile data into comparable decision views.
-
-`Flutter` `Crypto` `Market Data` `Fintech`
-
-[Google Play ↗](https://play.google.com/store/apps/details?id=com.moonport.moonportapp)
 
 </td>
 </tr>
@@ -291,15 +291,15 @@ VLESS and VMESS proxy/VPN support for Android and iOS, powered by the V2Ray/Xray
 
 ## 06 / GitHub activity
 
-<a href="https://github.com/shafiquecbl?tab=overview&from=2025-09-01&to=2026-09-09"><img src="https://ghchart.rshah.org/54c5f8/shafiquecbl" width="100%" alt="Muhammad Shafique's GitHub contribution history" /></a>
+<a href="https://github.com/shafiquecbl?tab=overview&from=2025-09-01&to=2026-09-09"><img src="https://ghchart.rshah.org/39d353/shafiquecbl" width="100%" alt="Muhammad Shafique's GitHub contribution history" /></a>
 
 <table>
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shafiquecbl&theme=github_dark" width="100%" alt="Muhammad Shafique's GitHub statistics" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shafiquecbl&show_icons=true&hide_border=true&theme=github_dark&title_color=39d353&icon_color=39d353" width="100%" alt="Muhammad Shafique's GitHub statistics" />
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiquecbl&theme=github_dark" width="100%" alt="Muhammad Shafique's repositories by language" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafiquecbl&layout=compact&hide_border=true&theme=github_dark&title_color=39d353" width="100%" alt="Muhammad Shafique's top programming languages" />
 </td>
 </tr>
 </table>
