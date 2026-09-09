@@ -14,7 +14,7 @@ Flutter Team Lead building fast, reliable mobile products across security, deliv
 
 <br>
 
-<table>
+<table width="100%">
 <tr align="center">
 <td width="25%"><h3>6+</h3><sub>YEARS BUILDING</sub></td>
 <td width="25%"><h3>30+</h3><sub>PRODUCTS SHIPPED</sub></td>
@@ -291,15 +291,29 @@ VLESS and VMESS proxy/VPN support for Android and iOS, powered by the V2Ray/Xray
 
 ## 06 / GitHub activity
 
-<a href="https://github.com/shafiquecbl?tab=overview&from=2025-09-01&to=2026-09-09"><img src="https://ghchart.rshah.org/39d353/shafiquecbl" width="100%" alt="Muhammad Shafique's GitHub contribution history" /></a>
+<a href="https://github.com/shafiquecbl?tab=overview&from=2025-09-01&to=2026-09-09">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/54c5f8/shafiquecbl">
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/0969da/shafiquecbl">
+  <img src="https://ghchart.rshah.org/54c5f8/shafiquecbl" width="100%" alt="Muhammad Shafique's GitHub contribution history" />
+</picture>
+</a>
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shafiquecbl&show_icons=true&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=39d353&icon_color=39d353" width="100%" alt="Muhammad Shafique's GitHub statistics" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=shafiquecbl&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=54c5f8&icon_color=54c5f8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=shafiquecbl&show_icons=true&hide_border=true&bg_color=00000000&text_color=24292f&title_color=0969da&icon_color=0969da">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shafiquecbl&show_icons=true&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=54c5f8&icon_color=54c5f8" width="100%" alt="Muhammad Shafique's GitHub statistics" />
+</picture>
 </td>
 <td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafiquecbl&layout=compact&hide_border=true&bg_color=00000000&text_color=8b949e&title_color=39d353" width="100%" alt="Muhammad Shafique's top programming languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafiquecbl&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=54c5f8">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafiquecbl&layout=compact&hide_border=true&bg_color=00000000&text_color=24292f&title_color=0969da">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shafiquecbl&layout=compact&hide_border=true&bg_color=00000000&text_color=c9d1d9&title_color=54c5f8" width="100%" alt="Muhammad Shafique's top programming languages" />
+</picture>
 </td>
 </tr>
 </table>
