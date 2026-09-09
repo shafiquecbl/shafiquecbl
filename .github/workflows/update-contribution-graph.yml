@@ -41,3 +41,7 @@ jobs:
           git add assets/github-contributions-*.svg
           git commit -m "chore: refresh contribution graph"
           git push
+          curl --fail --silent --show-error \
+            "https://purge.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/github-contributions-dark.svg" >/dev/null
+          curl --fail --silent --show-error \
+            "https://purge.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/github-contributions-light.svg" >/dev/null
