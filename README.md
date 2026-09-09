@@ -104,7 +104,7 @@ An image generation and editing workspace for creating, previewing, refining, an
 
 `Flutter` `Generative AI` `Image Editing` `IAP`
 
-[App Store ↗](https://apps.apple.com/us/app/ai-photo-generator-pixart/id6737462382)
+[App Store ↗](https://apps.apple.com/us/app/ai-photo-generator-pixart/id6737462382) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=pixart.aiart.generator)
 
 </td>
 <td width="50%" valign="top">
@@ -136,7 +136,7 @@ Sensitive daily-use flows for cycles, symptoms, weight, temperature, educational
 
 `Flutter` `Health` `Tracking` `Privacy`
 
-[App Store ↗](https://apps.apple.com/us/app/flow-glow/id6738675614)
+[App Store ↗](https://apps.apple.com/us/app/flow-glow/id6738675614) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=app.flow.glow.periods.pregnancy.tracker)
 
 </td>
 <td width="50%" valign="top">
@@ -152,6 +152,70 @@ Illustrated lessons, audio narration, English translations, and offline access s
 `Flutter` `Education` `Audio` `Offline`
 
 [App Store ↗](https://apps.apple.com/us/app/prophets-stories-pbut/id6755478899) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.wisecodex.prophetstories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://apps.apple.com/us/app/sdrd-partner/id6747889277"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/sdrd-partner.webp" width="100%" alt="SDRD Partner merchant operations application" /></a>
+
+### SDRD Partner
+
+**Merchant operations**
+
+A merchant command center for live orders, catalog controls, store availability, wallet withdrawals, earnings, and performance reporting.
+
+`Flutter` `Orders` `Wallet` `Tablet`
+
+[App Store ↗](https://apps.apple.com/us/app/sdrd-partner/id6747889277) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.sadrad.store&hl=en_CA)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/vynox.webp" width="100%" alt="Vynox VPN mobile application" /></a>
+
+### Vynox VPN
+
+**Consumer VPN**
+
+A one-tap privacy product for private browsing, streaming, gaming, global server selection, auto-connect, subscriptions, and ad blocking.
+
+`Flutter` `VPN` `Privacy` `RevenueCat`
+
+[App Store ↗](https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vynox.secure.vpn.proxy.master&hl=en)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://apps.apple.com/us/app/ahadees-al-rasool/id6749274573"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/ahadees-al-rasool.webp" width="100%" alt="Ahadees Al-Rasool educational application" /></a>
+
+### Ahadees Al-Rasool
+
+**Hadith learning**
+
+Authentic Hadith learning with Arabic recitations, English translations, searchable chapters, bookmarks, illustrations, and offline audio.
+
+`Flutter` `Hadith` `Audio` `Offline`
+
+[App Store ↗](https://apps.apple.com/us/app/ahadees-al-rasool/id6749274573) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.wisecodex.ahadeesalrasool)
+
+</td>
+<td width="50%" valign="top">
+
+<a href="https://play.google.com/store/apps/details?id=com.moonport.moonportapp"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/moonport.webp" width="100%" alt="Moonport crypto calculator application" /></a>
+
+### Moonport
+
+**Crypto scenario calculator**
+
+Fast projections across 10,000+ coins, future balances, market caps, and price targets—turning volatile data into comparable decision views.
+
+`Flutter` `Crypto` `Market Data` `Fintech`
+
+[Google Play ↗](https://play.google.com/store/apps/details?id=com.moonport.moonportapp)
 
 </td>
 </tr>
@@ -221,6 +285,21 @@ VLESS and VMESS proxy/VPN support for Android and iOS, powered by the V2Ray/Xray
 [pub.dev ↗](https://pub.dev/packages/flutter_v2ray_plus)<br>
 [Source code ↗](https://github.com/shafiquecbl/flutter_v2ray_plus)
 
+</td>
+</tr>
+</table>
+
+## 06 / GitHub activity
+
+<a href="https://github.com/shafiquecbl?tab=overview&from=2025-09-01&to=2026-09-09"><img src="https://ghchart.rshah.org/54c5f8/shafiquecbl" width="100%" alt="Muhammad Shafique's GitHub contribution history" /></a>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shafiquecbl&theme=github_dark" width="100%" alt="Muhammad Shafique's GitHub statistics" />
+</td>
+<td width="50%" align="center" valign="top">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shafiquecbl&theme=github_dark" width="100%" alt="Muhammad Shafique's repositories by language" />
 </td>
 </tr>
 </table>
