@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.webp" width="116" alt="Muhammad Shafique" />
+<img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/avatar.webp" width="116" alt="Muhammad Shafique" />
 
 # Muhammad Shafique
 
@@ -62,7 +62,7 @@ Islamabad, Pakistan
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://apps.apple.com/us/app/sdrd/id6747887489"><img src="./assets/projects/sdrd.webp" width="100%" alt="SDRD mobile delivery application" /></a>
+<a href="https://apps.apple.com/us/app/sdrd/id6747887489"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/sdrd.webp" width="100%" alt="SDRD mobile delivery application" /></a>
 
 ### SDRD
 
@@ -77,7 +77,7 @@ Food, grocery, shop, and parcel delivery built around fast ordering, discovery, 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://apps.apple.com/us/app/guardx-vpn-vpn-proxy-master/id6753163496"><img src="./assets/projects/guardx.webp" width="100%" alt="GuardX VPN mobile application" /></a>
+<a href="https://apps.apple.com/us/app/guardx-vpn-vpn-proxy-master/id6753163496"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/guardx.webp" width="100%" alt="GuardX VPN mobile application" /></a>
 
 ### GuardX VPN
 
@@ -94,7 +94,7 @@ A privacy-focused VPN with OpenVPN, WireGuard, and Xray protocols, plus threat p
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://apps.apple.com/us/app/ai-photo-generator-pixart/id6737462382"><img src="./assets/projects/pixart.webp" width="100%" alt="PixArt AI mobile application" /></a>
+<a href="https://apps.apple.com/us/app/ai-photo-generator-pixart/id6737462382"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/pixart.webp" width="100%" alt="PixArt AI mobile application" /></a>
 
 ### PixArt AI
 
@@ -109,7 +109,7 @@ An image generation and editing workspace for creating, previewing, refining, an
 </td>
 <td width="50%" valign="top">
 
-<a href="https://apps.apple.com/us/app/f1-race-programme-2024/id6478093369"><img src="./assets/projects/f1-race-programme.webp" width="100%" alt="F1 Race Programme mobile application" /></a>
+<a href="https://apps.apple.com/us/app/f1-race-programme-2024/id6478093369"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/f1-race-programme.webp" width="100%" alt="F1 Race Programme mobile application" /></a>
 
 ### F1 Race Programme
 
@@ -126,7 +126,7 @@ A 30+ year publication reimagined with news, standings, schedules, circuit maps,
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://apps.apple.com/us/app/flow-glow/id6738675614"><img src="./assets/projects/flow-and-glow.webp" width="100%" alt="Flow and Glow health tracking application" /></a>
+<a href="https://apps.apple.com/us/app/flow-glow/id6738675614"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/flow-and-glow.webp" width="100%" alt="Flow and Glow health tracking application" /></a>
 
 ### Flow & Glow
 
@@ -141,7 +141,7 @@ Sensitive daily-use flows for cycles, symptoms, weight, temperature, educational
 </td>
 <td width="50%" valign="top">
 
-<a href="https://apps.apple.com/us/app/prophets-stories-pbut/id6755478899"><img src="./assets/projects/prophets-stories.webp" width="100%" alt="Prophet's Stories educational mobile application" /></a>
+<a href="https://apps.apple.com/us/app/prophets-stories-pbut/id6755478899"><img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/projects/prophets-stories.webp" width="100%" alt="Prophet's Stories educational mobile application" /></a>
 
 ### Prophet's Stories
 
