@@ -1,5 +1,15 @@
 <div align="center">
 
+<sub>
+  <a href="#01--about"><b>ABOUT</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="#02--selected-work"><b>WORK</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="#03--core-stack"><b>STACK</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="#05--open-source"><b>OPEN SOURCE</b></a>&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;
+  <a href="#06--github-activity"><b>ACTIVITY</b></a>
+</sub>
+
+<br><br>
+
 <img src="https://cdn.jsdelivr.net/gh/shafiquecbl/shafiquecbl@main/assets/avatar.webp" width="116" alt="Muhammad Shafique" />
 
 # Muhammad Shafique
@@ -8,7 +18,12 @@
 
 Flutter Team Lead building fast, reliable mobile products across security, delivery, AI, health, education, publishing, and fintech.
 
-[**View portfolio ↗**](https://shafique.dev) &nbsp;&nbsp;·&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mr-shafique) &nbsp;&nbsp;·&nbsp;&nbsp; [Email](mailto:shafiquecbl@gmail.com) &nbsp;&nbsp;·&nbsp;&nbsp; [Résumé](https://shafique.dev/Shafique-Resume.pdf)
+<p>
+  <a href="https://shafique.dev"><img src="https://img.shields.io/badge/Portfolio-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="View portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mr-shafique"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="Connect on LinkedIn" /></a>&nbsp;
+  <a href="mailto:shafiquecbl@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Send an email" /></a>&nbsp;
+  <a href="https://shafique.dev/Shafique-Resume.pdf"><img src="https://img.shields.io/badge/Résumé-6E40C9?style=for-the-badge&logo=readme&logoColor=white" height="30" alt="View résumé" /></a>
+</p>
 
 </div>
 
@@ -72,7 +87,7 @@ Food, grocery, shop, and parcel delivery built around fast ordering, discovery, 
 
 `Flutter` `Delivery` `Maps` `Commerce`
 
-[App Store ↗](https://apps.apple.com/us/app/sdrd/id6747887489) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.sadrad.sdrd)
+<p><a href="https://apps.apple.com/us/app/sdrd/id6747887489"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download SDRD on the App Store" /></a>&nbsp; <a href="https://play.google.com/store/apps/details?id=com.sadrad.sdrd"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get SDRD on Google Play" /></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -87,7 +102,7 @@ A merchant command center for live orders, catalog controls, store availability,
 
 `Flutter` `Orders` `Wallet` `Tablet`
 
-[App Store ↗](https://apps.apple.com/us/app/sdrd-partner/id6747889277) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.sadrad.store&hl=en_CA)
+<p><a href="https://apps.apple.com/us/app/sdrd-partner/id6747889277"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download SDRD Partner on the App Store" /></a>&nbsp; <a href="https://play.google.com/store/apps/details?id=com.sadrad.store&hl=en_CA"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get SDRD Partner on Google Play" /></a></p>
 
 </td>
 </tr>
@@ -104,7 +119,7 @@ A privacy-focused VPN with OpenVPN, WireGuard, and Xray protocols, plus threat p
 
 `Flutter` `WireGuard` `Xray` `RevenueCat`
 
-[App Store ↗](https://apps.apple.com/us/app/guardx-vpn-vpn-proxy-master/id6753163496)
+<p><a href="https://apps.apple.com/us/app/guardx-vpn-vpn-proxy-master/id6753163496"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download GuardX VPN on the App Store" /></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -119,7 +134,7 @@ A one-tap privacy product for private browsing, streaming, gaming, global server
 
 `Flutter` `VPN` `Privacy` `RevenueCat`
 
-[App Store ↗](https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=vynox.secure.vpn.proxy.master&hl=en)
+<p><a href="https://apps.apple.com/us/app/vynox-vpn-proxy-master/id6737821640"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download Vynox VPN on the App Store" /></a>&nbsp; <a href="https://play.google.com/store/apps/details?id=vynox.secure.vpn.proxy.master&hl=en"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get Vynox VPN on Google Play" /></a></p>
 
 </td>
 </tr>
@@ -136,7 +151,7 @@ An image generation and editing workspace for creating, previewing, refining, an
 
 `Flutter` `Generative AI` `Image Editing` `IAP`
 
-[App Store ↗](https://apps.apple.com/us/app/ai-photo-generator-pixart/id6737462382) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=pixart.aiart.generator)
+<p><a href="https://apps.apple.com/us/app/ai-photo-generator-pixart/id6737462382"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download PixArt AI on the App Store" /></a>&nbsp; <a href="https://play.google.com/store/apps/details?id=pixart.aiart.generator"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get PixArt AI on Google Play" /></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +166,7 @@ A 30+ year publication reimagined with news, standings, schedules, circuit maps,
 
 `Flutter` `Publishing` `Schedules` `Media`
 
-[App Store ↗](https://apps.apple.com/us/app/f1-race-programme-2024/id6478093369)
+<p><a href="https://apps.apple.com/us/app/f1-race-programme-2024/id6478093369"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download F1 Race Programme on the App Store" /></a></p>
 
 </td>
 </tr>
@@ -168,7 +183,7 @@ Sensitive daily-use flows for cycles, symptoms, weight, temperature, educational
 
 `Flutter` `Health` `Tracking` `Privacy`
 
-[App Store ↗](https://apps.apple.com/us/app/flow-glow/id6738675614) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=app.flow.glow.periods.pregnancy.tracker)
+<p><a href="https://apps.apple.com/us/app/flow-glow/id6738675614"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download Flow and Glow on the App Store" /></a>&nbsp; <a href="https://play.google.com/store/apps/details?id=app.flow.glow.periods.pregnancy.tracker"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get Flow and Glow on Google Play" /></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -183,7 +198,7 @@ Fast projections across 10,000+ coins, future balances, market caps, and price t
 
 `Flutter` `Crypto` `Market Data` `Fintech`
 
-[Google Play ↗](https://play.google.com/store/apps/details?id=com.moonport.moonportapp)
+<p><a href="https://play.google.com/store/apps/details?id=com.moonport.moonportapp"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get Moonport on Google Play" /></a></p>
 
 </td>
 </tr>
@@ -200,7 +215,7 @@ Illustrated lessons, audio narration, English translations, and offline access s
 
 `Flutter` `Education` `Audio` `Offline`
 
-[App Store ↗](https://apps.apple.com/us/app/prophets-stories-pbut/id6755478899) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.wisecodex.prophetstories)
+<p><a href="https://apps.apple.com/us/app/prophets-stories-pbut/id6755478899"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download Prophet's Stories on the App Store" /></a>&nbsp; <a href="https://play.google.com/store/apps/details?id=com.wisecodex.prophetstories"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get Prophet's Stories on Google Play" /></a></p>
 
 </td>
 <td width="50%" valign="top">
@@ -215,7 +230,7 @@ Authentic Hadith learning with Arabic recitations, English translations, searcha
 
 `Flutter` `Hadith` `Audio` `Offline`
 
-[App Store ↗](https://apps.apple.com/us/app/ahadees-al-rasool/id6749274573) &nbsp;·&nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.wisecodex.ahadeesalrasool)
+<p><a href="https://apps.apple.com/us/app/ahadees-al-rasool/id6749274573"><img src="https://shafique.dev/assets/badges/download-on-app-store.svg" height="35" alt="Download Ahadees Al-Rasool on the App Store" /></a>&nbsp; <a href="https://play.google.com/store/apps/details?id=com.wisecodex.ahadeesalrasool"><img src="https://shafique.dev/assets/badges/get-it-on-google-play.svg" height="35" alt="Get Ahadees Al-Rasool on Google Play" /></a></p>
 
 </td>
 </tr>
@@ -322,10 +337,16 @@ VLESS and VMESS proxy/VPN support for Android and iOS, powered by the V2Ray/Xray
 
 <div align="center">
 
-## Bring me the product that needs to feel finished.
+## 07 / Let's build something finished.
 
-[**Start a project →**](mailto:shafiquecbl@gmail.com)
+Bring me the product that needs sharper engineering, cleaner interaction, or a dependable path to release.
 
-[shafique.dev](https://shafique.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/mr-shafique) &nbsp;·&nbsp; Islamabad, Pakistan
+<p>
+  <a href="mailto:shafiquecbl@gmail.com"><img src="https://img.shields.io/badge/Start_a_project-0969DA?style=for-the-badge&logo=minutemailer&logoColor=white" height="32" alt="Start a project" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mr-shafique"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="Connect on LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/shafiquecbl"><img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Follow on GitHub" /></a>
+</p>
+
+<sub>Islamabad, Pakistan&nbsp;&nbsp;·&nbsp;&nbsp;Available worldwide</sub>
 
 </div>
